@@ -231,7 +231,7 @@ hr{
 }
 
 .photoswrapper{
-    width: 1100px;
+    width: 1200px;
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -291,7 +291,7 @@ hr{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-right: 50px;
+    margin-right: 40px;
     
 
 }
