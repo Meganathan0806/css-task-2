@@ -53,7 +53,7 @@ header{
 
 }
 .col{
-    color: aqua;
+    color: rgba(0, 187, 255, 0.929);
 }
 body{
     font-family: "Roboto", sans-serif;
@@ -150,14 +150,9 @@ body{
 .box1 p{
     text-align: center;
 }
-hr{
-    width: 100px;
-    text-align: center;
-    margin-left: 550px;
-    margin-top: 40px;
-    color: aqua;
+
     
-}
+
 .boxescontent p{
     margin-top: 30px;
     font-size: 14px;
@@ -178,7 +173,8 @@ hr{
     display: flex;
     background-color: lightskyblue;
      height: 95vh;
-    margin-top: 50px;   
+    margin-top: 50px; 
+    color: white;  
     
 }
 .differentboxesno2{
@@ -187,6 +183,7 @@ hr{
     height: 95vh;
     margin-top: 0px ;
     font-size: 13px;
+    color: white;
 
 }
 .each-wrapper{
@@ -216,9 +213,12 @@ hr{
     font-weight: 300;
 }
 .cteam hr{
-    color: blue;
+    background-color: blue;
     text-align: center;
-    
+    margin-left: 560px;
+    margin-right: 560px;
+    margin-top: 40px;
+    color: blue;
 }
 .item10{
     text-align: center;
@@ -326,7 +326,7 @@ hr{
 
 }   
 .n-numbers{
-    font-size: 25px;
+    font-size: 38px;
     margin-top: 5px;
 }
 .contentpic p{
@@ -338,16 +338,22 @@ hr{
 .contentpic h4{
     color: rgba(0, 110, 255, 0.616);
     margin-top: 10px;
-    font-weight: 300;
+    font-weight: 500;
 }.toughest-wrapper P{
     font-size: 13px;
 }
 .downloading-wrapper h1{
     margin-top: 10px;
+    font-weight: 300;
 }
-
-
-
+.features hr{
+    text-align: center;
+    margin-left: 550px;
+margin-right: 550px;
+margin-top: 30px;
+ color: blue;
+ 
+}
 
 
 
