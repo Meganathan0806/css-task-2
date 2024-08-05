@@ -351,15 +351,31 @@ margin-left: 20px;
 }
 
 
-hr{
-    height: 0.5vh;
-    color: blue;
-    width: 90px;
-    text-align: center;
-    margin-left: 550px;
-    margin-right: 500px;
-    margin-top: 30px;
-    
+
+.firstdot{
+    margin-top: 4rem;
+    border-bottom: dotted 2px black;
+    border-style: none none dotted;
+}
+.seconddot{
+    margin-top: 5rem;
+    border-bottom: dotted 2px black;
+    border-style: none none dotted;
+
+}
+.thirddot{
+    margin-top: 5rem;
+    border-bottom: dotted 2px black;
+    border-style: none none dotted;
+
+
+}
+.fourdot{
+    margin-top: 5rem;
+    border-bottom: dotted 2px black;
+    border-style: none none dotted;
+
+
 }
 
 
